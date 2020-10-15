@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//
 int main()
 {
 	int count, i, arr[30], num, first, last, middle;
